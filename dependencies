@@ -1,0 +1,19 @@
+images dependencies:
+====================
+
+
+java:8
+------
+  centos:7
+  
+tomcat:8.5.15
+-------------
+  java:8
+
+node:6.9.1
+----------
+  centos:7
+
+mongodb:3.2
+-----------
+  ubuntu:16.04

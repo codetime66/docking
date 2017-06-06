@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo docker build -t tomcat:8.5.11 .
+sudo docker build -t tomcat:8.5.15 .
